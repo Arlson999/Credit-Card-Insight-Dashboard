@@ -67,10 +67,7 @@ CSV HEADER;
 
 
 
--- Update the Datestyle Setting: Set the datestyle explicitly for your session using the following command:
-SET datestyle TO 'ISO, DMY';
 
--- Now, try to COPY the csv files!
 
 -- 4. Insert additional data into SQL, using same COPY function
 
@@ -82,7 +79,7 @@ DELIMITER ','
 CSV HEADER;
 
 
--- copy additional data (week-53) in cust_detail table (remember to update the file name and file location in below query)
+-- copy additional data (week-53) in cust_detail table 
 
 COPY cust_detail
 FROM 'D:\cust_add.csv' 
