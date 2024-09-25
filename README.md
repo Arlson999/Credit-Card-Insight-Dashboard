@@ -2,6 +2,11 @@
 
 Welcome to the **Credit Card Financial Dashboard** project! This project aims to provide real-time insights into credit card performance metrics, making it a comprehensive tool for stakeholders to monitor, analyze, and optimize credit card operations.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b021c26-c12c-4d3a-93bf-3d3ba1f55c2b" alt="Dashboard Screenshot 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/092975ed-948f-4501-90c3-56bf9ee69899" alt="Dashboard Screenshot 2" width="400"/>
+</p>
+
 ---
 
 ## 📝 Project Objective
